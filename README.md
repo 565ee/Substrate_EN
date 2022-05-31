@@ -4,6 +4,8 @@
 • [Contact 联系方式](#index99)  
 
 # <span id='index1'>• Base 基础</span>  
+[101 Create your first Substrate blockchain](https://github.com/565ee/Substrate_EN/blob/main/101%20Create%20your%20first%20Substrate%20blockchain.md) 
+
 # <span id='index2'>• Middle 中级</span>  
 # <span id='index3'>• Advanve 高级</span>  
 
