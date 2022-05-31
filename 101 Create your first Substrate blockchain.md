@@ -7,6 +7,8 @@
 • [Start the front-end template](#index6)  
 • [Transfer funds from one account to another](#index7)  
 • [Stop the local node](#index8)  
+• [Substrate Tutorials , Substrate 教程](#index98)  
+• [Contact 联系方式](#index99)  
 
 # <span id='index1'>• What is Substrate?</span>  
 Substrate is an open source, modular, and extensible framework for building blockchains.
@@ -140,3 +142,17 @@ To stop the local Substrate node:
 2. Press Control-c to terminate the running process.
 
 3. Verify your terminal returns to the terminal prompt in the substrate-node-template directory.
+
+# <span id='index98'>• Substrate Tutorials , Substrate 教程</span>  
+CN 中文 Github  [Substrate 教程 : github.com/565ee/Substrate_CN](https://github.com/565ee/Substrate_CN)  
+CN 中文 CSDN    [Substrate 教程 : blog.csdn.net/wx468116118](https://blog.csdn.net/wx468116118/category_11846056.html)  
+EN 英文 Github  [Substrate Tutorials : github.com/565ee/Substrate_EN](https://github.com/565ee/Substrate_EN)  
+EN 英文 dev.to  [Substrate Tutorials : dev.to/565ee](https://dev.to/565ee/substrate-tutorials-5n4)  
+
+# <span id='index99'>• Contact 联系方式</span>  
+Homepage   : [565.ee](https://565.ee)  
+GitHub     : [github.com/565ee](https://github.com/565ee)  
+Email      : 565.eee@gmail.com  
+Facebook   : [facebook.com/565.ee](https://facebook.com/565.ee)  
+Twitter    : [twitter.com/565_eee](https://twitter.com/565_eee)  
+Telegram   : [t.me/ee_565](https://t.me/ee_565)  
