@@ -5,9 +5,11 @@
 
 # <span id='index1'>• Base 基础</span>  
 [101 Create your first Substrate blockchain](https://github.com/565ee/Substrate_EN/blob/main/101%20Create%20your%20first%20Substrate%20blockchain.md) 
+[103 proof of existence](https://github.com/565ee/Substrate_EN/blob/main/103%20proof%20of%20existence.md) 
+[105 permissioned network](https://github.com/565ee/Substrate_EN/blob/main/105%20permissioned%20network.md)  
 
 # <span id='index2'>• Middle 中级</span>  
-[103 proof of existence](https://github.com/565ee/Substrate_EN/blob/main/103%20proof%20of%20existence.md)  
+ 
 
 # <span id='index3'>• Advanve 高级</span>  
 
