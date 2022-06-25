@@ -8,6 +8,7 @@
 [103 polkadot substrate : proof of existence](https://github.com/565ee/Substrate_EN/blob/main/103%20polkadot%20substrate%20:%20proof%20of%20existence.md)  
 [105 polkadot substrate : permissioned network](https://github.com/565ee/Substrate_EN/blob/main/105%20polkadot%20substrate%20:%20permissioned%20network.md)  
 [107 polkadot substrate : forkless upgrades](https://github.com/565ee/Substrate_EN/blob/main/107%20polkadot%20substrate%20:%20forkless%20upgrades.md)  
+[109 polkadot substrate : private network](https://github.com/565ee/Substrate_EN/blob/main/109%20polkadot%20substrate%20:%20private%20network.md)   
 [10B polkadot substrate : node metrics](https://github.com/565ee/Substrate_EN/blob/main/10B%20polkadot%20substrate%20:%20node%20metrics.md)   
 
 # <span id='index2'>• Middle 中级</span>  
