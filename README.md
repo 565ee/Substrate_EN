@@ -10,6 +10,7 @@
 [107 polkadot substrate : forkless upgrades](https://github.com/565ee/Substrate_EN/blob/main/107%20polkadot%20substrate%20:%20forkless%20upgrades.md)  
 [109 polkadot substrate : private network](https://github.com/565ee/Substrate_EN/blob/main/109%20polkadot%20substrate%20:%20private%20network.md)   
 [10B polkadot substrate : node metrics](https://github.com/565ee/Substrate_EN/blob/main/10B%20polkadot%20substrate%20:%20node%20metrics.md)   
+[10F polkadot substrate : Configure contracts pallet](https://github.com/565ee/Substrate_EN/blob/main/10F%20polkadot%20substrate%20:%20Configure%20contracts%20pallet.md)   
 
 # <span id='index2'>• Middle 中级</span>  
  
