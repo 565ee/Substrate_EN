@@ -13,6 +13,7 @@
 [10F polkadot substrate : Configure contracts pallet](https://github.com/565ee/Substrate_EN/blob/main/10F%20polkadot%20substrate%20:%20Configure%20contracts%20pallet.md)   
 [10H polkadot substrate : Prepare a local parachain testnet](https://github.com/565ee/Substrate_EN/blob/main/10H%20polkadot%20substrate%20:%20Prepare%20a%20local%20parachain%20testnet.md)   
 [10J polkadot substrate : Connect a local parachain](https://github.com/565ee/Substrate_EN/blob/main/10J%20polkadot%20substrate%20:%20Connect%20a%20local%20parachain.md)   
+[10L polkadot substrate : Rococo testnet slot acquisition](https://github.com/565ee/Substrate_EN/edit/main/10L%20polkadot%20substrate%20:%20Rococo%20testnet%20slot%20acquisition.md)   
 
 # <span id='index2'>• Middle 中级</span>  
  
