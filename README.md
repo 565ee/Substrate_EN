@@ -14,10 +14,10 @@
 [10H polkadot substrate : Prepare a local parachain testnet](https://github.com/565ee/Substrate_EN/blob/main/10H%20polkadot%20substrate%20:%20Prepare%20a%20local%20parachain%20testnet.md)   
 [10J polkadot substrate : Connect a local parachain](https://github.com/565ee/Substrate_EN/blob/main/10J%20polkadot%20substrate%20:%20Connect%20a%20local%20parachain.md)   
 [10L polkadot substrate : Rococo testnet slot acquisition](https://github.com/565ee/Substrate_EN/edit/main/10L%20polkadot%20substrate%20:%20Rococo%20testnet%20slot%20acquisition.md)   
-[10N polkadot substrate : your first contract](https://github.com/565ee/Substrate_EN/blob/main/10N%20polkadot%20substrate%20:%20your%20first%20contract.md)   
 
 # <span id='index2'>• Middle 中级</span>  
- 
+[10N polkadot substrate : your first contract](https://github.com/565ee/Substrate_EN/blob/main/10N%20polkadot%20substrate%20:%20your%20first%20contract.md)   
+[10P polkadot substrate : Develop a smart contract](https://github.com/565ee/Substrate_EN/blob/main/10P%20polkadot%20substrate%20:%20Develop%20a%20smart%20contract.md)   
 
 # <span id='index3'>• Advanve 高级</span>  
 
