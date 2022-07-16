@@ -19,6 +19,7 @@
 [10N polkadot substrate : your first contract](https://github.com/565ee/Substrate_EN/blob/main/10N%20polkadot%20substrate%20:%20your%20first%20contract.md)   
 [10P polkadot substrate : Develop a smart contract](https://github.com/565ee/Substrate_EN/blob/main/10P%20polkadot%20substrate%20:%20Develop%20a%20smart%20contract.md)   
 [10R polkadot substrate : Use maps for storing values](https://github.com/565ee/Substrate_EN/blob/main/10R%20polkadot%20substrate%20:%20Use%20maps%20for%20storing%20values.md)   
+[10T polkadot substrate : Build a token contract](https://github.com/565ee/Substrate_EN/blob/main/10T%20polkadot%20substrate%20:%20Build%20a%20token%20contract.md)   
 
 # <span id='index3'>• Advanve 高级</span>  
 
